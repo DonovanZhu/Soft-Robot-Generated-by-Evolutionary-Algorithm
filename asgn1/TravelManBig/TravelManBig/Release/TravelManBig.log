@@ -1,0 +1,5 @@
+﻿  TravelManBig.cpp
+  TravelManMain.cpp
+  Generating code
+LINK : fatal error C1354: error accessing previous object file C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn1\TravelManBig\Release\TravelManBig.iobj (corrupted symbol table)
+LINK : fatal error LNK1257: code generation failed

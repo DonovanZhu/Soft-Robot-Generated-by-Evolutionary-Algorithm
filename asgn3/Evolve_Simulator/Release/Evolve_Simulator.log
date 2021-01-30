@@ -1,0 +1,57 @@
+﻿  Evolve_Simulator.cpp
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(45,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(46,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(206,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(209,26): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(230,26): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(305,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(314,22): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(334,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(481,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(488,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(495,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(528,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(535,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(548,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(555,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(570,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(600,22): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(636,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(648,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(787,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(860,21): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1087,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1182,22): warning C4018: '<': signed/unsigned mismatch
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1241,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1242,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1245,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1250,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1250,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1254,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1255,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1256,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1257,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1258,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1262,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1263,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1264,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1265,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1268,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1269,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1270,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1271,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1272,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1276,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1277,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1278,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1279,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\EA\Assignment\asgn3\Evolve_Simulator\Evolve_Simulator.cpp(1322,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  3 of 721 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Evolve_Simulator.vcxproj -> D:\EA\Assignment\asgn3\Evolve_Simulator\Release\Evolve_Simulator.exe

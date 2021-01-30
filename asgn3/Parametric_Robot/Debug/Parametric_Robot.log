@@ -1,0 +1,46 @@
+﻿  Parametric_Robot.cpp
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(41,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(42,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(207,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(209,26): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(251,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(251,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(251,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(252,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(252,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(252,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(261,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(268,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(275,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(282,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(289,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(462,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(465,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(472,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(514,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(540,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(640,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(641,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(644,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(649,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(649,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(653,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(654,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(655,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(656,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(657,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(661,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(662,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(663,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(664,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(667,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(668,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(669,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(670,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(671,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(675,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(676,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(677,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(678,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Parametric_Robot.cpp(721,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Parametric_Robot.vcxproj -> C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Parametric_Robot\Debug\Parametric_Robot.exe

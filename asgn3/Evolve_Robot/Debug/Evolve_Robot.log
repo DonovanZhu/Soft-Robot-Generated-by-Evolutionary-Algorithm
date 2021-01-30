@@ -1,0 +1,42 @@
+﻿  Evolve_Robot.cpp
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(47,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(166,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(366,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(366,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(366,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(367,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(367,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(367,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(543,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(557,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(564,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(604,21): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(831,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(938,22): warning C4018: '<': signed/unsigned mismatch
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(991,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(992,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(995,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1000,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1000,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1004,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1005,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1006,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1007,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1008,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1012,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1013,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1014,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1015,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1018,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1019,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1020,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1021,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1022,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1026,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1027,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1028,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1029,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Evolve_Robot.cpp(1072,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Evolve_Robot.vcxproj -> C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\Evolve_Robot\Debug\Evolve_Robot.exe

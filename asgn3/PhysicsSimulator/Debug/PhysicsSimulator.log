@@ -1,0 +1,33 @@
+﻿  PhysicsSimulator.cpp
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(158,15): warning C4101: 'z': unreferenced local variable
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(192,95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(192,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(192,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(193,95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(193,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(193,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(311,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(312,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(315,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(320,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(320,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(324,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(325,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(326,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(327,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(328,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(332,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(333,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(334,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(335,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(338,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(339,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(340,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(341,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(342,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(346,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(347,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(348,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(349,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\PhysicsSimulator.cpp(451,7): warning C4101: 'x': unreferenced local variable
+  PhysicsSimulator.vcxproj -> C:\Books\Evolutionary Computation & Design Automation\Assignment\asgn3\PhysicsSimulator\Debug\PhysicsSimulator.exe
